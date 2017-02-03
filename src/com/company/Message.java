@@ -1,8 +1,5 @@
 package com.company;
 
-/**
- * Created by ts159 on 1/30/17.
- */
 public class Message
 {
     public final String owner;
